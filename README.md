@@ -1,2 +1,1 @@
-# project-planning-software
-включает функции для очистки
+Библиотека для работы с WebSocket
